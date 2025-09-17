@@ -1,0 +1,10 @@
+{
+ "prossimi": [
+{"id": "1A", "titolo": "Festa in piazza", "data": " 20 Settembre 2025"},
+{"id": "1B", "titolo": "Cocomerata", "data": " 21 Settembre 2025"}
+],
+ "passati": [
+{"id": "1C", "titolo": "Faaa", "data": " 18 Settembre 2025"},
+{"id": "1D", "titolo": "ddddd", "data": " 17 Settembre 2025"}
+]
+}
