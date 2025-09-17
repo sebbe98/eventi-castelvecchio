@@ -1,11 +1,31 @@
 {
- "prossimi": [
-{"id": "9ce7dde9-2677-464a-bc7a-e667dad6c4ea", "titolo": "Festa in piazza", "data": " 6 Settembre 2025"},
-{"id": "9823859e-cb71-4390-ba6b-d34e45bebf46", "titolo": "Cocomerata", "data": " 21 Settembre 2025"},
-{"id": "22ccbfb9-b4e7-47d6-97b3-465a66d5152a", "titolo": "test", "data": " 25 Settembre 2025"}
-],
- "passati": [
-{"id": "8204ac76-b3a8-4145-97ef-d310f04ba6fe", "titolo": "Faaa", "data": " 18 Settembre 2025"},
-{"id": "46999997-a719-4859-807f-00c8a4a63ece", "titolo": "ddddd", "data": " 17 Settembre 2025"}
-]
+    "prossimi": [
+        {
+            "id": "9ce7dde9-2677-464a-bc7a-e667dad6c4ea",
+            "titolo": "Festa in piazza",
+            "data": " 6 Settembre 2025"
+        },
+        {
+            "id": "9823859e-cb71-4390-ba6b-d34e45bebf46",
+            "titolo": "Cocomerata",
+            "data": " 21 Settembre 2025"
+        },
+        {
+            "id": "22ccbfb9-b4e7-47d6-97b3-465a66d5152a",
+            "titolo": "test",
+            "data": " 25 Settembre 2025"
+        }
+    ],
+    "passati": [
+        {
+            "id": "8204ac76-b3a8-4145-97ef-d310f04ba6fe",
+            "titolo": "Faaa",
+            "data": " 18 Settembre 2025"
+        },
+        {
+            "id": "46999997-a719-4859-807f-00c8a4a63ece",
+            "titolo": "ddddd",
+            "data": " 17 Settembre 2025"
+        }
+    ]
 }
